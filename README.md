@@ -35,4 +35,3 @@ Help us build the world's most accessible library of tennis-specific mental trai
 ## 🔗 Learn More
 
 👉 Explore the complete system at [https://offcourt.app](https://offcourt.app)  
-👉 Discover tennis academies worldwide at [https://tennis-academies.com](https://tennis-academies.com)
