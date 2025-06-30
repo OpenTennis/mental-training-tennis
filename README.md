@@ -1,8 +1,8 @@
 # Open Mental Training for Tennis 🎾🧠
 
-Welcome to the **Open Mental Training** library — a free, open-source collection of guided mental exercises built specifically for tennis players.
+Welcome to the **Open Mental Training** library, a free, open-source collection of guided mental exercises built specifically for tennis players.
 
-Whether you're preparing for your next match or training between sessions, these tools are designed to help you develop match-ready instincts, resilience, and focus — **off the court**.
+Whether you're preparing for your next match or training between sessions, these tools are designed to help you develop match-ready instincts, resilience, and focus **off the court**.
 
 ## 🔍 What's inside?
 
@@ -20,7 +20,7 @@ Whether you're preparing for your next match or training between sessions, these
 
 ## 🌱 Why Open Source?
 
-This repository is part of [OffCourt](https://offcourt.app) — the first training system built entirely for what happens *off the court*. We believe serious amateur players deserve pro-level mental tools. That’s why we’re sharing the core frameworks openly.
+This repository is part of [OffCourt, the first tennis training system built entirely for what happens *off the court*.](https://offcourt.app) We believe serious amateur players deserve pro-level mental tools. That’s why we’re sharing the core frameworks openly.
 
 ## 💡 Contribute
 
